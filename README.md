@@ -1,4 +1,4 @@
-# Most Frequently Asked Interview Questions - Personally Experienced
+# Most Frequently Asked Interview Questions 
 
 This repository contains a curated set of interview questions I personally encountered, organized into two main sections:
 
